@@ -1,11 +1,15 @@
 # react-hooks-ticTacToe
 
 Build a React-Hooks App - Tic tac Tor
-👋 hi there! My name is [Vinod Chauhan](www.linkedin.com/in/vinod-chauhan7) and this is the source material for Build a [React_hooks](https://github.com/vinodchauhan7/react-hooks-ticTacToe) !
+👋 hi there! My name is [Vinod Chauhan](https://www.linkedin.com/in/vinod-chauhan7) and this is the source material for Build a [React_hooks](https://github.com/vinodchauhan7/react-hooks-ticTacToe) !
 
 This is an simple app for learning hook via TicTacToe game. You can learn something which is more than beginners in this app.
 
-# If you were given instructions for a specific branch to use, then use this command
+You can also find this app on [CodeSandbox](https://codesandbox.io/s/tictactoe-react-hooks-fjth8)
+
+![alt text](https://camo.githubusercontent.com/416c7a7433e9d81b4e430b561d92f22ac4f15988/68747470733a2f2f636f646573616e64626f782e696f2f7374617469632f696d672f706c61792d636f646573616e64626f782e737667 "Logo Title Text 1")
+
+If you were given instructions for a specific branch to use, then use this command
 # git clone --single-branch --branch <branchname> https://github.com/vinodchauhan7/react-hooks-ticTacToe.git
 
 # otherwise, this is fine:
