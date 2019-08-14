@@ -16,7 +16,7 @@ If you were given instructions for a specific branch to use, then use this comma
 git clone https://github.com/vinodchauhan7/react-hooks-ticTacToe.git
 
 # then do this:
-cd bookshelf
+cd folderName
 npm run setup --silent
 This may take a few minutes. If you get any errors, please read through them and see if you can find out what the problem is. You may also want to look at Troubleshooting. If you can't work it out on your own then please file an issue and provide all the output from the commands you ran (even if it's a lot).
 
